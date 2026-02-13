@@ -6,15 +6,6 @@
     "expiry": "2035-10-15"
   },
   {
-    "Device Id": "749f4cf9956bcf80",
-    "username": "abc",
-    "password": "1000",
-    "expiry": "2026-09-29",
-    "paymentUSD": 18,
-    "paymentBDT": 0,
-    "allowoffline": false
-  },
-  {
     "username": "Admin",
     "Device Id": "9f33a75302554dd2",
     "password": "1234",

@@ -13,5 +13,35 @@
     "paymentUSD": 18,
     "paymentBDT": 0,
     "allowoffline": false
+  },
+  {
+    "username": "Admin",
+    "Device Id": "9f33a75302554dd2",
+    "password": "1234",
+    "expiry": "2027-02-02",
+    "paymentUSD": 0,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "Cmt1",
+    "Device Id": "78313c79c5ad0d14",
+    "password": "1111",
+    "expiry": "2027-02-02",
+    "paymentUSD": 0,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
+  },
+  {
+    "username": "A999block",
+    "Device Id": "4aa487adcf68aada",
+    "password": "AIsheik",
+    "expiry": "2027-02-02",
+    "paymentUSD": 10,
+    "paymentBDT": 0,
+    "allowoffline": false,
+    "blocked": false
   }
 ]

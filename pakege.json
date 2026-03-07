@@ -26,10 +26,10 @@
   },
   {
     "username": "DB1",
-    "Device Id": "5d2c08ab4e4e4502",
+    "Device Id": "6125809078080337",
     "password": "DB@1",
     "expiry": "2027-02-02",
-    "paymentUSD": 0,
+    "paymentUSD": 15,
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false

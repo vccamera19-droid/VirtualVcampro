@@ -25,12 +25,12 @@
     "blocked": false
   },
   {
-    "username": "DB1",
-    "Device Id": "6125809078080337",
-    "password": "DB@1",
-    "expiry": "2027-02-02",
-    "paymentUSD": 15,
-    "paymentBDT": 0,
+    "username": "Rony12",
+    "Device Id": "9efa0893fc9f56ba",
+    "password": "Rony@1",
+    "expiry": "2029-02-02",
+    "paymentUSD": 0,
+    "paymentBDT": 2500,
     "allowoffline": false,
     "blocked": false
   }

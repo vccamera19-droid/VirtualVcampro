@@ -15,11 +15,11 @@
     "allowoffline": false
   },
   {
-    "username": "Omorbek",
-    "Device Id": "514db395",
+    "username": "1111",
+    "Device Id": "48b02250270b1568",
     "password": "1234",
     "expiry": "2027-02-02",
-    "paymentUSD": 100,
+    "paymentUSD": 10,
     "paymentBDT": 0,
     "allowoffline": false,
     "blocked": false

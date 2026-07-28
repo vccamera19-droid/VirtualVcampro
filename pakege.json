@@ -6,11 +6,11 @@
     "expiry": "2035-10-15"
   },
   {
-    "Device Id": "c4a",
-    "username": "Admin",
+    "Device Id": "a75d9325b64a5418",
+    "username": "leo",
     "password": "4444",
     "expiry": "2050-09-29",
-    "paymentUSD": 200,
+    "paymentUSD": 100,
     "paymentBDT": 0,
     "allowoffline": false
   },
